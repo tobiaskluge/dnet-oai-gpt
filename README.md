@@ -12,6 +12,7 @@ Use the dev container, it contains all necessary requirements.
 Use dotnet run for each of the projects, as e.g.
 
 > cd src/HelloGpt
+
 > dotnet run --openai-key [YOUR_API_KEY] --prompt "[YOUR_PROMPT]"
 
 ## Contributing
