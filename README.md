@@ -1,7 +1,6 @@
-
 # About this
 
-C# .NET (Azure) OpenAI playground with gpt and other services
+Simple sample .net c# playground app for OpenAI and Azure OpenAI apis.
 
 ## Installation
 
@@ -12,7 +11,6 @@ Use the dev container, it contains all necessary requirements.
 Use dotnet run for each of the projects, as e.g.
 
 > cd src/HelloGpt
-
 > dotnet run --openai-key [YOUR_API_KEY] --prompt "[YOUR_PROMPT]"
 
 ## Contributing
